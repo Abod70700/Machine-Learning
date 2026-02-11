@@ -1,5 +1,10 @@
-# Machine Learning
+# Lab 1
 
-This repository contains all Machine Learning labs.
+In this lab, I explored Git and GitHub.
 
-Each lab is organized in a separate branch (Lab-1, Lab-2, etc).
+Tasks completed:
+
+- Created GitHub account
+- Created main repository
+- Learned basic GitHub operations
+- Created Lab-1 branch
