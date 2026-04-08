@@ -1,4 +1,4 @@
-# ARTI308 Lab 6
+# Lab 6
 
 In this lab, we applied **Linear Regression** on the **Ecommerce Customers** dataset using the same steps from the lab.
 
