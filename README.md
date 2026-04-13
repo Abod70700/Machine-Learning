@@ -1,5 +1,16 @@
-# Machine Learning
+# Lab 7
 
-This repository contains all Machine Learning labs.
+In this lab, we applied **Logistic Regression** on the **advertising.csv** dataset.
 
-Each lab is organized in a separate branch (Lab-1, Lab-2, etc).
+## Steps Completed
+- Loaded the dataset
+- Explored the data
+- Performed data visualization
+- Split the data into training and testing sets
+- Trained a Logistic Regression model
+- Predicted test results
+- Evaluated the model using a classification report
+
+## Files
+- `02-Logistic Regression Assignment.ipynb`
+- `advertising.csv`
