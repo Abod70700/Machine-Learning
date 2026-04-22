@@ -1,5 +1,16 @@
-# Machine Learning
+# Lab 8
 
-This repository contains all Machine Learning labs.
+In this lab, we applied **K-Nearest Neighbors (KNN)** on the dataset.
 
-Each lab is organized in a separate branch (Lab-1, Lab-2, etc).
+## Steps Completed
+- Data loading
+- Data scaling using StandardScaler
+- Train/test split
+- Trained KNN model
+- Evaluated using confusion matrix and classification report
+- Tested different K values
+- Selected best K and retrained model
+
+## Files
+- `02-K Nearest Neighbors Assignment.ipynb`
+- `KNN_Project_Data`
