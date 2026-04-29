@@ -1,5 +1,19 @@
-# Machine Learning
+# Lab - Decision Trees & Random Forest
 
-This repository contains all Machine Learning labs.
+In this lab, we applied Decision Tree and Random Forest models on the loan dataset.
 
-Each lab is organized in a separate branch (Lab-1, Lab-2, etc).
+## Steps
+- Data loading and exploration
+- Data preprocessing using get_dummies
+- Train/test split
+- Training Decision Tree model
+- Evaluation using classification report and confusion matrix
+- Training Random Forest model
+- Comparing model performance
+
+## Result
+Random Forest performed better than Decision Tree.
+
+## Files
+- Decision Trees and Random Forest Project.ipynb
+- loan_data.csv
