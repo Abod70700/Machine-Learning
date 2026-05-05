@@ -1,5 +1,14 @@
-# Machine Learning
+# Lab - Support Vector Machines
 
-This repository contains all Machine Learning labs.
+In this lab, we applied **Support Vector Machines (SVM)** on the Iris dataset.
 
-Each lab is organized in a separate branch (Lab-1, Lab-2, etc).
+## Steps
+- Loaded the Iris dataset
+- Explored the data using visualizations
+- Split the data into training and testing sets
+- Trained an SVM model
+- Evaluated the model using confusion matrix and classification report
+- Used GridSearchCV to improve model parameters
+
+## Files
+- `02-SVM Assignment (1).ipynb`
